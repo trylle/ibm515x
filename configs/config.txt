@@ -14,7 +14,7 @@ framebuffer_height=200
 # maybe this helps getting the proper frequency
 avoid_pwm_pll=1
 
-dtoverlay=vga666-overlay
+dtoverlay=cga
 enable_dpi_lcd=1
 display_default_lcd=1
 dpi_group=2

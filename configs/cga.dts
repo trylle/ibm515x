@@ -20,7 +20,7 @@
 		target = <&gpio>;
 		__overlay__ {
 			vga666_pins: vga666_pins {
-				brcm,pins = <2 3 6 7 8 9>;
+				brcm,pins = <2 3 9 14 15 21>;
 				brcm,function = <6>; /* alt2 */
 				brcm,pull = <0>; /* no pull */
 			};
