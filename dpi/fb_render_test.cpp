@@ -45,12 +45,14 @@ int main(int argc, char **argv)
 		po::options_description desc("Allowed options");
 		bool staggered_temporal_dithering;
 		bool temporal_dithering;
+		int fill_color=-1;
 
 		desc.add_options()
 			("help", "produce help message")
 			("emulate", "Emulate CGA output through VGA")
 			("temporal-dithering", po::bool_switch(&temporal_dithering)->default_value(false), "Uses flickering to produce more colors (arg: client, server)")
 			("staggered-temporal-dithering", po::bool_switch(&staggered_temporal_dithering)->default_value(false), "Stagger temporal dithering")
+			("fill-color", po::value(&fill_color), "Fill color")
 			;
 
 		po::variables_map vm;
@@ -135,6 +137,9 @@ int main(int argc, char **argv)
 					test_image.pixel_unaligned<std::uint8_t>(x, y)=col_uint;
 				}
 			}
+
+			if (fill_color>=0)
+				std::fill(test_image.data, test_image.end(), fill_color+(fill_color << 4));
 		}
 
 		fb.hide_cursor();
