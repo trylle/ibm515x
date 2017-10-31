@@ -57,6 +57,22 @@ void recv_from_reissuer(socket_type &socket, endpoint_type &endpoint, const buff
 	issuer(subhandler_impl);
 }
 
+std::array<int, 2> parse_vector2i(const std::string &s)
+{
+	std::regex re(R"(^(\d+)(,(\d+))?$)", std::regex::ECMAScript);
+	std::smatch sm;
+	std::array<int, 2> ret;
+
+	std::regex_match(s, sm, re);
+
+	if (sm.length(3)==0)
+		ret.fill(std::stoi(sm.str(1)));
+	else
+		ret={ std::stoi(sm.str(1)), std::stoi(sm.str(3)) };
+
+	return ret;
+}
+
 int main(int argc, char **argv)
 {
 	try
@@ -68,7 +84,6 @@ int main(int argc, char **argv)
 		double black_crush_low=0;
 		bool staggered_temporal_dithering=false;
 		bool vsync_signal=false;
-		bool double_horizontal_resolution=false;
 
 		desc.add_options()
 			("help", "produce help message")
@@ -83,7 +98,7 @@ int main(int argc, char **argv)
 			("black-crush-high", po::value<double>(&black_crush_high), "Level at which to start crushing black")
 			("black-crush-low", po::value<double>(&black_crush_low), "Level to consider pure black")
 			("vsync-signal", po::bool_switch(&vsync_signal), "Listen to client VSYNC signal")
-			("double-horizontal-resolution", po::bool_switch(&double_horizontal_resolution), "Double the horizontal resolution (e.g. 320x200 -> 640x200)")
+			("scale", po::value<std::string>()->default_value("1"), "Nearest neighbor pixel scaling (arg: <x,y>). Does not modify AR. Useful for 320x200->640x200 scaling to double dithering resolution")
 			;
 
 		po::variables_map vm;
@@ -125,27 +140,19 @@ int main(int argc, char **argv)
 
 		pp.render_passes.emplace_back(linearize());
 
-		if (double_horizontal_resolution)
-			pp.render_passes.emplace_back(nearest_scale(2, 1));
+		{
+			auto scale=parse_vector2i(vm["scale"].as<std::string>());
+
+			if (scale!=std::array<int, 2>{1,1})
+				pp.render_passes.emplace_back(nearest_scale(scale[0], scale[1]));
+		}
 
 		bayer::map bayer_map;
 
 		{
-			std::regex re_bayer_level(R"(^(\d+)(,(\d+))?$)", std::regex::ECMAScript);
-			std::smatch sm;
-			std::regex_match(vm["bayer-level"].as<std::string>(), sm, re_bayer_level);
-			int bayer_rows;
-			int bayer_cols;
+			auto bayer_size=parse_vector2i(vm["bayer-level"].as<std::string>());
 
-			if (sm.length(3)==0)
-				bayer_rows=bayer_cols=std::stoi(sm.str(1));
-			else
-			{
-				bayer_rows=std::stoi(sm.str(1));
-				bayer_cols=std::stoi(sm.str(3));
-			}
-
-			bayer_map=bayer::generate(bayer_rows, bayer_cols);
+			bayer_map=bayer::generate(bayer_size[0], bayer_size[1]);
 		}
 
 		auto linear_palette=cga_palette();
