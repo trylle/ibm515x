@@ -1,0 +1,6 @@
+[submodule "netvid"]
+	path = netvid
+	url = git@github.com:trylle/netvid
+[submodule "gpio/PJ_RPI"]
+	path = gpio/PJ_RPI
+	url = git://github.com/Pieter-Jan/PJ_RPI.git

@@ -1,0 +1,9 @@
+*.swp
+/.ninja_*
+*.o
+*.asm
+/main
+*.o.d
+/timing
+/fb_render
+*.gch

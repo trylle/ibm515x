@@ -1,0 +1,37 @@
+commonflags = -Wall -Wno-unused-function -Wfatal-errors -O3 -g -fdiagnostics-color=always -I../ -fverbose-asm
+cflags = $commonflags
+cppflags = $commonflags --std=c++1z
+linkflags = $commonflags -lstdc++ -lm -lboost_system -lpthread -g
+cc = gcc
+cppc = g++
+
+rule cc
+  depfile = $out.d
+  command = $cc -MMD -MF $out.d $cflags -c $in -o $out
+
+rule cppc
+  depfile = $out.d
+  command = $cppc -MMD -MF $out.d $cppflags -c $in -o $out
+
+rule pch
+  command = $cppc $cppflags $in
+
+rule objdump
+  command = objdump -l -d -M intel -S $in > $out
+
+rule link
+  command = $cc $linkflags $in -o $out
+
+rule buildlib
+  command = ninja -C $in
+
+build pch.h.gch: pch pch.h
+build PJ_RPI.o: cc PJ_RPI/PJ_RPI.c
+build main.o: cppc main.cpp | pch.h.gch
+build timing.o: cppc timing.cpp | pch.h.gch
+build main.asm: objdump main.o
+build full.asm: objdump main
+build ../netvid/netvid.a: buildlib ../netvid
+
+build main: link main.o PJ_RPI.o ../netvid/netvid.a
+build timing: link timing.o PJ_RPI.o ../netvid/netvid.a

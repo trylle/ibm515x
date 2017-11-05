@@ -1,0 +1,27 @@
+# For more options and information see
+# http://www.raspberrypi.org/documentation/configuration/config-txt.md
+# Some settings may impact device functionality. See link above for details
+
+# uncomment this if your display has a black border of unused pixels visible
+# and your display can output without overscan
+disable_overscan=1
+
+# uncomment to force a console size. By default it will be display's size minus
+# overscan.
+framebuffer_width=1920
+framebuffer_height=200
+
+# maybe this helps getting the proper frequency
+avoid_pwm_pll=1
+
+dtoverlay=vga666-overlay
+enable_dpi_lcd=1
+display_default_lcd=1
+dpi_group=2
+dpi_mode=87
+
+# hdmi_timings=<h_active_pixels> <h_sync_polarity> <h_front_porch> <h_sync_pulse> <h_back_porch> <v_active_lines> <v_sync_polarity> <v_front_porch> <v_sync_pulse> <v_back_porch> <v_sync_offset_a> <v_sync_offset_b> <pixel_rep> <frame_rate> <interlaced> <pixel_freq> <aspect_ratio>
+# Original timings adapted from http://www.paradigmlift.net/projects/teensy_cga.html
+#hdmi_timings=1920 0 288 192 336 200 0 33 3 25 0 0 0 60 0 42954540 1
+# Adjusted porches to center image on my IBM5153
+hdmi_timings=1920 0 258 192 366 200 0 23 3 35 0 0 0 60 0 42954540 1
