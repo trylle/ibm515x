@@ -8,7 +8,16 @@ This repository contains code and configuration for rendering an UDP video strea
 ## Dependencies
 
 * Boost
+* Eigen 3
+
+### DPI-based code
+
 * SDL (optional)
+
+### GPIO-based code (non-functional)
+
+* [PJ_RPI](https://github.com/Pieter-Jan/PJ_RPI)
+* [jss_bitmask](https://www.justsoftwaresolutions.co.uk/cplusplus/using-enum-classes-as-bitfields.html)
 
 ## Interface
 
