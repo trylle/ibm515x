@@ -3,7 +3,7 @@ ibm515x
 
 ![IBM 5153 and RPi CGA](https://github.com/trylle/ibm515x/raw/master/img/ibm5153_and_rpi.png)
 
-This repository contains code and configuration for rendering an UDP video stream (netvid) to an IBM 5153 compatible monitor via a Raspberry Pi. Crude hooks are available for RetroArch and Open Broadcaster Software to provide the video stream.
+This repository contains code and configuration for rendering an UDP video stream (netvid) to an IBM 5153 compatible monitor via a Raspberry Pi. Crude hooks are available for [RetroArch](https://github.com/trylle/RetroArch) and [Open Broadcaster Software](https://github.com/trylle/obs-studio) to provide the video stream.
 
 ## Dependencies
 
