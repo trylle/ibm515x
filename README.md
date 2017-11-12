@@ -31,7 +31,8 @@ The repository also includes a GPIO interface, which was never finished, after o
 
 ## Adapter
 
-![16-color palette as rendered by fbrender_test](https://github.com/trylle/ibm515x/raw/master/img/rpi_cga.png)
+![Photo of adapter](https://github.com/trylle/ibm515x/raw/master/img/rpi_cga.png)
+![Adapter circuit diagram](https://github.com/trylle/ibm515x/raw/master/img/adapter.svg?sanitize=true)
 
 The actual adapter board and timings were based on [the previous work by Benjamin Gould](http://www.paradigmlift.net/projects/teensy_cga.html). I added some resistors to limit the current draw; purely precautionary. On my monitor I also needed to adjust the vertical and horizontal porches to provide a centered image.
 
