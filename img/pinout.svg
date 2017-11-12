@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3718"
+   xml:space="preserve"
+   width="271"
+   height="421"
+   viewBox="0 0 270.99999 421"
+   sodipodi:docname="pinout.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata3724"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3722"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3736"><path
+         d="M -2,-2 H 271 V 421 H -2 Z"
+         id="path3734"
+         inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1108"
+     inkscape:window-height="1153"
+     id="namedview3720"
+     showgrid="false"
+     inkscape:zoom="0.93349162"
+     inkscape:cx="62.181269"
+     inkscape:cy="169.70284"
+     inkscape:window-x="3888"
+     inkscape:window-y="140"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3726"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" /><g
+     id="g3726"
+     inkscape:groupmode="layer"
+     inkscape:label="pinout"
+     transform="matrix(1.3333333,0,0,-1.3333333,-425.83332,722.33332)"><g
+       id="g3728"
+       transform="matrix(1,0,0,-1,0,595)"><g
+         id="g3730"
+         transform="matrix(0.75,0,0,0.75,320.125,54)"><g
+           id="g3732"
+           clip-path="url(#clipPath3736)"><path
+             d="M 0,0 H 22 V 420 H 0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3738"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,0 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3740"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,21 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3742"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,42 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3744"
+             inkscape:connector-curvature="0" /><path
+             d="M 22,63 H 135 V 84 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3746"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,63 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3748"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,84 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3750"
+             inkscape:connector-curvature="0" /><path
+             d="m 22,105 h 248 v 21 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3752"
+             inkscape:connector-curvature="0" /><path
+             d="m 22,126 h 113 v 84 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3754"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,126 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3756"
+             inkscape:connector-curvature="0" /><path
+             d="m 135,147 h 135 v 42 H 135 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3758"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,189 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3760"
+             inkscape:connector-curvature="0" /><path
+             d="m 135,210 h 135 v 21 H 135 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3762"
+             inkscape:connector-curvature="0" /><path
+             d="m 22,231 h 248 v 21 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3764"
+             inkscape:connector-curvature="0" /><path
+             d="m 135,252 h 135 v 21 H 135 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3766"
+             inkscape:connector-curvature="0" /><path
+             d="m 22,273 h 248 v 21 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3768"
+             inkscape:connector-curvature="0" /><path
+             d="M 22,294 H 135 V 399 H 22 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3770"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,294 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3772"
+             inkscape:connector-curvature="0" /><path
+             d="m 135,315 h 135 v 21 H 135 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3774"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,336 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3776"
+             inkscape:connector-curvature="0" /><path
+             d="m 135,357 h 135 v 42 H 135 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3778"
+             inkscape:connector-curvature="0" /><path
+             d="m 248,399 h 22 v 21 h -22 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3780"
+             inkscape:connector-curvature="0" /><path
+             d="M 21,-1 H 248 V 21 H 21 Z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3782"
+             inkscape:connector-curvature="0" /><path
+             d="M 21,20 H 135 V 42 H 21 Z"
+             style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3784"
+             inkscape:connector-curvature="0" /><path
+             d="M 134,20 H 248 V 42 H 134 Z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3786"
+             inkscape:connector-curvature="0" /><path
+             d="M 21,41 H 135 V 63 H 21 Z"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3788"
+             inkscape:connector-curvature="0" /><path
+             d="M 134,41 H 248 V 63 H 134 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3790"
+             inkscape:connector-curvature="0" /><path
+             d="M 134,62 H 248 V 84 H 134 Z"
+             style="fill:#d39200;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3792"
+             inkscape:connector-curvature="0" /><path
+             d="m 21,83 h 114 v 22 H 21 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3794"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,83 h 114 v 22 H 134 Z"
+             style="fill:#00c300;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3796"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,125 h 114 v 22 H 134 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3798"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,188 h 114 v 22 H 134 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3800"
+             inkscape:connector-curvature="0" /><path
+             d="m 21,209 h 114 v 22 H 21 Z"
+             style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3802"
+             inkscape:connector-curvature="0" /><path
+             d="m 21,251 h 114 v 22 H 21 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3804"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,293 h 114 v 22 H 134 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3806"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,335 h 114 v 22 H 134 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3808"
+             inkscape:connector-curvature="0" /><path
+             d="m 21,398 h 114 v 22 H 21 Z"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3810"
+             inkscape:connector-curvature="0" /><path
+             d="m 134,398 h 114 v 22 H 134 Z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3812"
+             inkscape:connector-curvature="0" /><g
+             id="g3814"><path
+               d="M 0,0 V 0 20 H -1 V 0 Z m 0,21 v 0 20 H -1 V 21 Z m 0,21 v 0 20 H -1 V 42 Z m 0,21 v 0 20 H -1 V 63 Z m 0,21 v 0 20 H -1 V 84 Z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 H -1 V 399 Z M -1,-1 v 0 H 21 V 0 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 23,-20 v 0 20 h -1 v -20 z m -23,41 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 23,-20 v 0 20 h -1 v -20 z m -23,41 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z m 23,-20 v 0 20 h -1 v -20 z m -23,41 v 0 h 22 v 1 H -1 Z m 0,21 v 0 h 22 v 1 H -1 Z M 248,105 v 0 20 h -1 V 105 Z M 270,0 v 0 20 h -1 V 0 Z m 0,21 v 0 20 h -1 V 21 Z m 0,21 v 0 20 h -1 V 42 Z m 0,21 v 0 20 h -1 V 63 Z m 0,21 v 0 20 h -1 V 84 Z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 v -20 z m 0,21 v 0 20 h -1 V 399 Z M 248,-1 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z m 0,21 v 0 h 22 v 1 h -22 z"
+               style="fill:#000000;fill-opacity:0.14901961;fill-rule:nonzero;stroke:none"
+               id="path3816"
+               inkscape:connector-curvature="0" /></g><path
+             d="m 21.5,-1 v 127 m 0,20 v 85 m 0,20 v 106 m 0,20 v 43 M 134.5,-1 V 420 M 21,-0.5 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 H 248 M 247.5,-1 V 105 M 21,125.5 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 h 227 m -227,21 H 248 M 247.5,125 v 295"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:11.47371292;stroke-dasharray:none;stroke-opacity:1"
+             id="path3818"
+             inkscape:connector-curvature="0" /><text
+             transform="translate(10.77002,15.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3822"><tspan
+               x="0"
+               y="0"
+               id="tspan3820">1</tspan></text>
+<text
+             transform="translate(25,15.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3826"><tspan
+               x="0 7.2280002 14.456"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3824">3v3</tspan></text>
+<text
+             transform="translate(138,15.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3830"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3828">5v</tspan></text>
+<text
+             transform="translate(251,15.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3834"><tspan
+               x="0"
+               y="0"
+               id="tspan3832">2</tspan></text>
+<text
+             transform="translate(10.77002,36.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3838"><tspan
+               x="0"
+               y="0"
+               id="tspan3836">3</tspan></text>
+<text
+             transform="translate(25,36.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3842"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 50.518002 54.847 63.505001 72.163002 80.820999 90.207001 99.593002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3840">GPIO_2 (VSYNC)</tspan></text>
+<text
+             transform="translate(138,36.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3846"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3844">5v</tspan></text>
+<text
+             transform="translate(251,36.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3850"><tspan
+               x="0"
+               y="0"
+               id="tspan3848">4</tspan></text>
+<text
+             transform="translate(10.77002,57.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3854"><tspan
+               x="0"
+               y="0"
+               id="tspan3852">5</tspan></text>
+<text
+             transform="translate(25,57.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3858"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 50.518002 54.847 64.233002 72.890999 81.549004 90.934998 100.321"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3856">GPIO_3 (HSYNC)</tspan></text>
+<text
+             transform="translate(138,57.245117)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3862"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3860">GND</tspan></text>
+<text
+             transform="translate(251,57.245117)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3866"><tspan
+               x="0"
+               y="0"
+               id="tspan3864">6</tspan></text>
+<text
+             transform="translate(10.77002,78.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3870"><tspan
+               x="0"
+               y="0"
+               id="tspan3868">7</tspan></text>
+<text
+             transform="translate(25,78.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3874"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3872">GPIO_4</tspan></text>
+<text
+             transform="translate(138,78.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3878"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 54.145 57.745998 62.075001 65.676003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3876">GPIO_14 (I)</tspan></text>
+<text
+             transform="translate(251,78.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3882"><tspan
+               x="0"
+               y="0"
+               id="tspan3880">8</tspan></text>
+<text
+             transform="translate(10.77002,99.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3886"><tspan
+               x="0"
+               y="0"
+               id="tspan3884">9</tspan></text>
+<text
+             transform="translate(25,99.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3890"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3888">GND</tspan></text>
+<text
+             transform="translate(138,99.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3894"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 54.145 57.745998 62.075001 72.176003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3892">GPIO_15 (G)</tspan></text>
+<text
+             transform="translate(251,99.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3898"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3896">10</tspan></text>
+<text
+             transform="translate(3.540039,120.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3902"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3900">11</tspan></text>
+<text
+             transform="translate(25,120.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3906"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3904">GPIO_17</tspan></text>
+<text
+             transform="translate(138,120.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3910"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3908">GPIO_18</tspan></text>
+<text
+             transform="translate(251,120.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3914"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3912">12</tspan></text>
+<text
+             transform="translate(3.540039,141.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3918"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3916">13</tspan></text>
+<text
+             transform="translate(25,141.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3922"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3920">GPIO_27</tspan></text>
+<text
+             transform="translate(138,141.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3926"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3924">GND</tspan></text>
+<text
+             transform="translate(251,141.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3930"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3928">14</tspan></text>
+<text
+             transform="translate(3.540039,162.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3934"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3932">15</tspan></text>
+<text
+             transform="translate(25,162.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3938"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3936">GPIO_22</tspan></text>
+<text
+             transform="translate(138,162.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3942"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3940">GPIO_23</tspan></text>
+<text
+             transform="translate(251,162.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3946"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3944">16</tspan></text>
+<text
+             transform="translate(3.540039,183.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3950"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3948">17</tspan></text>
+<text
+             transform="translate(25,183.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3954"><tspan
+               x="0 7.2280002 14.456"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3952">3v3</tspan></text>
+<text
+             transform="translate(138,183.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3958"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3956">GPIO_24</tspan></text>
+<text
+             transform="translate(251,183.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3962"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3960">18</tspan></text>
+<text
+             transform="translate(3.540039,204.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3966"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3964">19</tspan></text>
+<text
+             transform="translate(25,204.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3970"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3968">GPIO_10</tspan></text>
+<text
+             transform="translate(138,204.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3974"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3972">GND</tspan></text>
+<text
+             transform="translate(251,204.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3978"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3976">20</tspan></text>
+<text
+             transform="translate(3.540039,225.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3982"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3980">21</tspan></text>
+<text
+             transform="translate(25,225.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3986"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 54.145 57.745998 62.075001 71.460999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3984">GPIO_09 (B)</tspan></text>
+<text
+             transform="translate(138,225.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3990"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3988">GPIO_25</tspan></text>
+<text
+             transform="translate(251,225.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3994"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3992">22</tspan></text>
+<text
+             transform="translate(3.540039,246.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3998"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3996">23</tspan></text>
+<text
+             transform="translate(25,246.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4002"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4000">GPIO_11</tspan></text>
+<text
+             transform="translate(138,246.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4006"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4004">GPIO_08</tspan></text>
+<text
+             transform="translate(251,246.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4010"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4008">24</tspan></text>
+<text
+             transform="translate(3.540039,267.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4014"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4012">25</tspan></text>
+<text
+             transform="translate(25,267.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4018"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4016">GND</tspan></text>
+<text
+             transform="translate(138,267.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4022"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4020">GPIO_07</tspan></text>
+<text
+             transform="translate(251,267.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4026"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4024">26</tspan></text>
+<text
+             transform="translate(3.540039,288.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4030"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4028">27</tspan></text>
+<text
+             transform="translate(25,288.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4034"><tspan
+               x="0 3.6010001 12.987 20.215 28.872999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4032">ID_SD</tspan></text>
+<text
+             transform="translate(138,288.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4038"><tspan
+               x="0 3.6010001 12.987 20.215 28.872999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4036">ID_SC</tspan></text>
+<text
+             transform="translate(251,288.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4042"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4040">28</tspan></text>
+<text
+             transform="translate(3.540039,309.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4046"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4044">29</tspan></text>
+<text
+             transform="translate(25,309.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4050"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4048">GPIO_05</tspan></text>
+<text
+             transform="translate(138,309.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4054"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4052">GND</tspan></text>
+<text
+             transform="translate(251,309.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4058"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4056">30</tspan></text>
+<text
+             transform="translate(3.540039,330.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4062"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4060">31</tspan></text>
+<text
+             transform="translate(25,330.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4066"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4064">GPIO_06</tspan></text>
+<text
+             transform="translate(138,330.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4070"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4068">GPIO_12</tspan></text>
+<text
+             transform="translate(251,330.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4074"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4072">32</tspan></text>
+<text
+             transform="translate(3.540039,351.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4078"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4076">33</tspan></text>
+<text
+             transform="translate(25,351.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4082"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4080">GPIO_13</tspan></text>
+<text
+             transform="translate(138,351.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4086"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4084">GND</tspan></text>
+<text
+             transform="translate(251,351.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4090"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4088">34</tspan></text>
+<text
+             transform="translate(3.540039,372.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4094"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4092">35</tspan></text>
+<text
+             transform="translate(25,372.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4098"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4096">GPIO_19</tspan></text>
+<text
+             transform="translate(138,372.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4102"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4100">GPIO_16</tspan></text>
+<text
+             transform="translate(251,372.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4106"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4104">36</tspan></text>
+<text
+             transform="translate(3.540039,393.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4110"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4108">37</tspan></text>
+<text
+             transform="translate(25,393.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4114"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4112">GPIO_26</tspan></text>
+<text
+             transform="translate(138,393.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4118"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4116">GPIO_20</tspan></text>
+<text
+             transform="translate(251,393.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4122"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4120">38</tspan></text>
+<text
+             transform="translate(3.540039,414.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4126"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4124">39</tspan></text>
+<text
+             transform="translate(25,414.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4130"><tspan
+               x="0 10.101 19.487"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4128">GND</tspan></text>
+<text
+             transform="translate(138,414.24512)"
+             style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4134"><tspan
+               x="0 10.101 18.759001 22.360001 32.460999 39.688999 46.917 54.145 57.745998 62.075001 71.460999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4132">GPIO_21 (R)</tspan></text>
+<text
+             transform="translate(251,414.24512)"
+             style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4138"><tspan
+               x="0 7.2280002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4136">40</tspan></text>
+</g></g></g></g></svg>

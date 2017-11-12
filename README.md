@@ -25,6 +25,10 @@ Video signals are provided through the [DPI (Parallel Display Interface)](https:
 
 The repository also includes a GPIO interface, which was never finished, after oscilloscope analysis revealed timing issues (suspected main culprit: USB polling).
 
+### Pinout on RPi header
+
+![RGBI pinout on RPi header](https://github.com/trylle/ibm515x/raw/master/img/pinout.svg?sanitize=true)
+
 ## Adapter
 
 ![16-color palette as rendered by fbrender_test](https://github.com/trylle/ibm515x/raw/master/img/rpi_cga.png)
