@@ -50,6 +50,44 @@ Temporal dithering is supported for extending the palette to 136 colors. The ima
 
 A downsample application provides needed processing to convert a 16-bit/32-bit RGB video stream (as provided by RetroArch/OBS) into a CGA compatible 4-bit video stream. It supports nearest neighbor color downsampling (for rendering conventional CGA/EGA output), temporal and bayer dithering, local contrast enhancement and black level adjustment.
 
+### Examples
+
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_nearest.png" width="640" height="480">
+
+Command line:
+
+```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm nearest```
+
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer.png" width="640" height="480">
+
+Command line:
+
+```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm bayer --bayer 2,2```
+
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer_local_contrast.png" width="640" height="480">
+
+Command line:
+
+```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm bayer --bayer 2,2 --local-contrast-gain .25 --local-contrast-stddev 32```
+
+Local contrast enhancement tries to maximize the range of luminosities for different parts of the image. This is useful when you're limited to a palette that has very few gradations but wide range, as with the IBM5153. Works well where the video input does not consist of large uniform areas, e.g. cartoons.
+
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer_local_contrast_temporal.gif" width="640" height="480">
+
+Command line:
+
+```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm bayer --bayer 2,2 --local-contrast-gain .25 --local-contrast-stddev 32 --temporal-dither client --staggered-temporal-dithering```
+
+Switching pixel color every frame gives the appearance of more colors, but at the expense of flickering.
+
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x4_bayer_local_contrast_temporal_640_.gif" width="640" height="480">
+
+Command line:
+
+```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm bayer --bayer 2,4 --local-contrast-gain .25 --local-contrast-stddev 32 --temporal-dither client --staggered-temporal-dithering```
+
+This example uses a 640x200 input and a non-square bayer pattern to accommodate the pixel aspect ratio.
+
 ## Demo videos
 
 [![Space Quest 3](https://img.youtube.com/vi/8KQf0JHnT7E/0.jpg)](https://www.youtube.com/watch?v=8KQf0JHnT7E)
