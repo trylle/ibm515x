@@ -52,19 +52,19 @@ A downsample application provides needed processing to convert a 16-bit/32-bit R
 
 ### Examples
 
-<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_nearest.png" width="640" height="480">
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/master/img/tychus_nearest.png" width="640" height="480">
 
 Command line:
 
 ```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm nearest```
 
-<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer.png" width="640" height="480">
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/master/img/tychus_2x2_bayer.png" width="640" height="480">
 
 Command line:
 
 ```./downsampling/main --recv 0:<input-port> --send <output-host>:<output-port> --algorithm bayer --bayer 2,2```
 
-<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer_local_contrast.png" width="640" height="480">
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/master/img/tychus_2x2_bayer_local_contrast.png" width="640" height="480">
 
 Command line:
 
@@ -72,7 +72,7 @@ Command line:
 
 Local contrast enhancement tries to maximize the range of luminosities for different parts of the image. This is useful when you're limited to a palette that has very few gradations but wide range, as with the IBM5153. Works well where the video input does not consist of large uniform areas, e.g. cartoons.
 
-<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x2_bayer_local_contrast_temporal.gif" width="640" height="480">
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/master/img/tychus_2x2_bayer_local_contrast_temporal.gif" width="640" height="480">
 
 Command line:
 
@@ -80,7 +80,7 @@ Command line:
 
 Switching pixel color every frame gives the appearance of more colors, but at the expense of flickering.
 
-<img src="https://raw.githubusercontent.com/trylle/ibm515x/test/img/tychus_2x4_bayer_local_contrast_temporal_640_.gif" width="640" height="480">
+<img src="https://raw.githubusercontent.com/trylle/ibm515x/master/img/tychus_2x4_bayer_local_contrast_temporal_640_.gif" width="640" height="480">
 
 Command line:
 
